@@ -1,4 +1,4 @@
-# Última actualización: 17.09.2024
+# Última actualización: 09.10.2025
 #
 # Lista de bloques para sitios de streaming de video y redes sociales.
 # Redirige las peticiones a localhost (127.0.0.1) para bloquear el acceso.
@@ -24,7 +24,7 @@
 
 # Twitch y su rojo de contenido (CDN)
 127.0.0.1 twitch.tv
-127.0.0-1 www.twitch.tv
+127.0.0.1 www.twitch.tv
 127.0.0.1 ttvnw.net
 
 # Vimeo
@@ -79,7 +79,7 @@
 # Twitter / Xy su rojo de contenido (CDN)
 127.0.0.1 twitter.com
 127.0.0.1 www.twitter.com
-127.0.0-1 mobile.twitter.com
+127.0.0.1 mobile.twitter.com
 127.0.0.1 x.com
 127.0.0.1 www.x.com
 127.0.0.1 t.co
