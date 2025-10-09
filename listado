@@ -1,15 +1,97 @@
+# Última actualización: 17.09.2024
+#
+# Lista de bloques para sitios de streaming de video y redes sociales.
+# Redirige las peticiones a localhost (127.0.0.1) para bloquear el acceso.
+
+# --- SITIOS DE STREAMING DE VIDEO ---
+
+# YouTube y servicios relacionados de Google Video
 127.0.0.1 youtube.com
 127.0.0.1 www.youtube.com
+127.0.0.1 m.youtube.com
 127.0.0.1 youtu.be
+127.0.0.1 googlevideo.com
+127.0.0.1 www.googlevideo.com
+127.0.0.1 s.ytimg.com
+
+# Netflix y su rojo de contenido (CDN)
 127.0.0.1 netflix.com
 127.0.0.1 www.netflix.com
+127.0.0.1 nflxvideo.net
+127.0.0.1 www.nflxvideo.net
+127.0.0.1 nflximg.net
+127.0.0.1 activos.nflxext.com
+
+# Twitch y su rojo de contenido (CDN)
 127.0.0.1 twitch.tv
-127.0.0.1 www.twitch.tv
+127.0.0-1 www.twitch.tv
+127.0.0.1 ttvnw.net
+
+# Vimeo
 127.0.0.1 vimeo.com
 127.0.0.1 www.vimeo.com
+127.0.0.1 player.vimeo.com
+
+# Movimiento diario
 127.0.0.1 dailymotion.com
 127.0.0.1 www.dailymotion.com
+
+# Hulu
 127.0.0.1 hulu.com
 127.0.0.1 www.hulu.com
+
+# Disney+
+127.0.0.1 disneyplus.com
+127.0.0.1 www.disneyplus.com
+127.0.0.1 dssott.com
+
+# HBO Máx / Máx
+127.0.0.1 hbomax.com
+127.0.0.1 www.hbomax.com
+127.0.0.1 máx.com
+127.0.0.1 www.max.com
+
+# Vídeo de Amazon Prime
+127.0.0.1 primevideo.com
+127.0.0.1 www.primevideo.com
+127.0.0.1 atv-ps.amazon.com
+
+# --- REDES SOCIALES ---
+
+# TikTok y su rojo de contenido (CDN)
 127.0.0.1 tiktok.com
 127.0.0.1 www.tiktok.com
+127.0.0.1 m.tiktok.com
+127.0.0.1 v16.tiktokcdn.com
+127.0.0.1 p16.tiktokcdn.com
+
+# Facebook, Instagram, Threads y su red de contenido (CDN)
+127.0.0.1 facebook.com
+127.0.0.1 www.facebook.com
+127.0.0.1 m.facebook.com
+127.0.0.1 instagram.com
+127.0.0.1 www.instagram.com
+127.0.0.1 hilos.net
+127.0.0.1 www.threads.net
+127.0.0.1 fbcdn.net
+127.0.0.1 scontent.xx.fbcdn.net
+
+# Twitter / Xy su rojo de contenido (CDN)
+127.0.0.1 twitter.com
+127.0.0.1 www.twitter.com
+127.0.0-1 mobile.twitter.com
+127.0.0.1 x.com
+127.0.0.1 www.x.com
+127.0.0.1 t.co
+127.0.0.1 pbs.twimg.com
+
+# Pinterest
+127.0.0.1 pinterest.com
+127.0.0.1 www.pinterest.com
+127.0.0.1 pinterest.es
+127.0.0.1 www.pinterest.es
+
+# Reddit
+127.0.0.1 reddit.com
+127.0.0.1 www.reddit.com
+127.0.0.1 old.reddit.com
