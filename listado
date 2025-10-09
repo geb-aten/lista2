@@ -66,9 +66,6 @@
 127.0.0.1 p16.tiktokcdn.com
 
 # Facebook, Instagram, Threads y su red de contenido (CDN)
-127.0.0.1 facebook.com
-127.0.0.1 www.facebook.com
-127.0.0.1 m.facebook.com
 127.0.0.1 instagram.com
 127.0.0.1 www.instagram.com
 127.0.0.1 hilos.net
