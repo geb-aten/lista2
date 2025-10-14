@@ -3,7 +3,7 @@
 # Lista de bloques para sitios de streaming de video y redes sociales.
 # Redirige las peticiones a localhost (127.0.0.1) para bloquear el acceso.
 
-# --- SITIOS DE STREAMING DE VÍDEO ---
+# --- SITIOS DE STREAMING DE VIDEO ---
 
 # YouTube y servicios relacionados de Google Video
 127.0.0.1 youtube.com
@@ -87,8 +87,6 @@
 127.0.0.1 www.pinterest.com
 127.0.0.1 pinterest.es
 127.0.0.1 www.pinterest.es
-127.0.0.1 chatgpt.com
-127.0.0.1 www.chatgpt.com
 
 # Reddit
 127.0.0.1 reddit.com
