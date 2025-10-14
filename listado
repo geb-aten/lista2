@@ -87,6 +87,8 @@
 127.0.0.1 www.pinterest.com
 127.0.0.1 pinterest.es
 127.0.0.1 www.pinterest.es
+127.0.0.1 chatgpt.com
+127.0.0.1 www.chatgpt.com
 
 # Reddit
 127.0.0.1 reddit.com
