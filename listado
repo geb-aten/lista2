@@ -3,13 +3,9 @@
 # Lista de bloques para sitios de streaming de video y redes sociales.
 # Redirige las peticiones a localhost (127.0.0.1) para bloquear el acceso.
 
-# --- SITIOS DE STREAMING DE VÍDEO ---
+# --- SITIOS DE STREAMING DE VIDEO ---
 
 # YouTube y servicios relacionados de Google Video
-127.0.0.1 youtube.com
-127.0.0.1 www.youtube.com
-127.0.0.1 m.youtube.com
-127.0.0.1 youtu.be
 127.0.0.1 googlevideo.com
 127.0.0.1 www.googlevideo.com
 127.0.0.1 s.ytimg.com
